@@ -1,0 +1,5 @@
+Things to do:
+1. Switch 'Threading' to 'MultiProcess', for information, check out 'train_faster_rcnn'
+2. test on correlated tracker
+3. think about new idea
+4. implementation of Kalman Filter or Dynamic Bayesian Networks
