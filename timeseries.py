@@ -1,3 +1,7 @@
+'''
+analyse on time series
+'''
+
 import argparse
 import os
 import numpy as np
